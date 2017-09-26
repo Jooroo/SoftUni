@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class e03FormattingNumbers {
+public class e03_Formatting_Numbers {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);

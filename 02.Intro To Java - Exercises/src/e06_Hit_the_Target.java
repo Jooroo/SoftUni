@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class e06HitTheTarget {
+public class e06_Hit_the_Target {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);

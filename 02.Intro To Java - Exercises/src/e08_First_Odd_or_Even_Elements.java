@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class e08FirstOddOrEvenElements {
+public class e08_First_Odd_or_Even_Elements {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);

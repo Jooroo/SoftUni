@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class e04CalculateExpression {
+public class e04_Calculate_Expression {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);

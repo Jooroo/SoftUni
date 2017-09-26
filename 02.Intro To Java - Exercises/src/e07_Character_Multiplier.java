@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class e07CharacterMultiplier {
+public class e07_Character_Multiplier {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);

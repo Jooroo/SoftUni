@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class e05OddAndEvenPairs {
+public class e05_Odd_and_Even_Pairs {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);

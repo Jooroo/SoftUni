@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class e10XBits {
+public class e10_X_Bits {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
